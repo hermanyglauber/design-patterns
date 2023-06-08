@@ -1,5 +1,7 @@
 package factories.abstractcreator.shape;
 
+import model.shape.Shape;
+
 public class ShapeIndustry {
     public static void main(String[] args) {
         Shape square = new SquareFactory().getShape();

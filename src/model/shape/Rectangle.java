@@ -1,6 +1,4 @@
-package factories.abstractcreator.shape;
-
-import factories.abstractcreator.shape.Shape;
+package model.shape;
 
 public class Rectangle implements Shape {
     @Override
