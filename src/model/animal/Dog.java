@@ -1,4 +1,6 @@
-package factories.animals;
+package model.animal;
+
+import model.animal.Animal;
 
 public class Dog implements Animal {
 
